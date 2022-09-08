@@ -1,4 +1,4 @@
-# Prerequisite for Q3
+# Prerequisite for Q3a
 <li> Pandas = 1.1.5</li>
 <li> Numpy = 1.18.5</li>
 <li> sklearn = 0.24.0 </li>
