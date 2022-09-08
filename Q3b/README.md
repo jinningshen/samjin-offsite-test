@@ -1,3 +1,3 @@
-# Prerequisite for Q2
+# Prerequisite for Q3b
 <li> Pandas </li>
 <li> Numpy </li>
