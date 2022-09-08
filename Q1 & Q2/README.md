@@ -1,2 +1,2 @@
-# samjin-offsite-test
- 
+# Prerequisite for Q2
+pandas
