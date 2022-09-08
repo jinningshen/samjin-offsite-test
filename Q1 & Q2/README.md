@@ -1,2 +1,0 @@
-###Prerequisite: 
-<li>Pandas</li>
